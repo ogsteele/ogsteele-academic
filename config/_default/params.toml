@@ -115,7 +115,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/OGSteele"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:steele.o.g"},
   {icon = "researchgate", icon_pack = "fab", name = "Connect on ResearchGate", link = "https://www.researchgate.net/profile/Oliver_Steele4"},
-  {icon = "linkedin", icon_pack = "fas", name = "Connect on LinkedIn", link = "https://www.linkedin.com/in/ogsteele/"},
+  {icon = "linkedin-in", icon_pack = "fas", name = "Connect on LinkedIn", link = "https://www.linkedin.com/in/ogsteele/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
