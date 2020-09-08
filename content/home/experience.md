@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Brighton"
   date_start = "2018-10-01"
   date_end = ""
-  description = ""
+  description = """ Investigating the effect of ApoE polymorphism under the supervision of Dr A. Penn and Dr R. Murrell-Lagnado.
+  
   Responsibilities include:
   
   * Acute Brain Slice Physiology
