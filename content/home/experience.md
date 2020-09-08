@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Brighton"
   date_start = "2018-10-01"
   date_end = ""
-  description = """ Investigating the effect of ApoE polymorphism on NMDAR mediated synaptic transmission under the supervision of Dr A. Penn and Dr R. Murrell-Lagnado """
+  description = """ Investigating the effect of ApoE polymorphism on NMDAR mediated synaptic transmission. 
+  Under the supervision of Dr A. Penn and Dr R. Murrell-Lagnado """
   Responsibilities include:
   
   * Acute Brain Slice Physiology
@@ -49,7 +50,8 @@ date_format = "Jan 2006"
   location = "Exeter"
   date_start = "2013-09-01"
   date_end = "2017-09-01"
-  description = """Thesis Title: The N-methyl-D-aspartate receptors involvement in a gender specific response to altered glucose concentration in the female murine hippocampus. 
+  description = """Thesis Title: The N-methyl-D-aspartate receptors involvement in a gender specific response to altered glucose concentration in the 
+  female murine hippocampus. 
   Supervisor: Prof. A. Randall"""
 
 +++
