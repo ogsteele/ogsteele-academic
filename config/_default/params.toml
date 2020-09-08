@@ -97,7 +97,7 @@ address = {street = "CRPC 5th Floor, University of Sussex", city = "Falmer", pos
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "50.86448", longitude = "-0.08380"}
 
 # Directions for visitors to locate you.
 directions = "Enter CRPC and take the stairs to 5th Floor"
@@ -250,7 +250,7 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-[50.86451, -0.0838]
+[map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
