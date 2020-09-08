@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "DPhil Candidate"
+  company = "University of Sussex"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Brighton"
+  date_start = "2018-10-01"
   date_end = ""
-  description = """
+  description = """ Investigating the effect of ApoE polymorphism on NMDAR mediated synaptic transmission under the supervision of Dr A. Penn and Dr R. Murrell-Lagnado """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Acute Brain Slice Physiology
+  * Statistical Analysis
+  * Teaching
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "MPhil in Biosciences"
+  company = "Cardiff University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Cardiff"
+  date_start = "2017-09-01"
+  date_end = "2018-09-01"
+  description = """Thesis Title: An electrophysiological assessment of the use of stem cells in neurological disease modelling and therapy. 
+  Supervisor: Prof. P.J. Kemp, Prof. A.E. Rosser"""
+  
+[[experience]]
+  title = "BSc (Hons) in Medical Science"
+  company = "University of Exeter"
+  company_url = ""
+  location = "Exeter"
+  date_start = "2013-09-01"
+  date_end = "2017-09-01"
+  description = """Thesis Title: The N-methyl-D-aspartate receptors involvement in a gender specific response to altered glucose concentration in the female murine hippocampus. 
+  Supervisor: Prof. A. Randall"""
 
 +++
