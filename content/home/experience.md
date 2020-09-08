@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Brighton"
   date_start = "2018-10-01"
   date_end = ""
-  description = """ Investigating the effect of ApoE polymorphism on NMDAR mediated synaptic transmission. 
-  Under the supervision of Dr A. Penn and Dr R. Murrell-Lagnado """
+  description = ""
   Responsibilities include:
   
   * Acute Brain Slice Physiology
