@@ -43,6 +43,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "30%"  
+  
+[[feature]]
+  icon = "wrench"
+  icon_pack = "fas"
+  name = "Bodging"
+  description = "90%"  
 
 
 # Uncomment to use emoji icons.
