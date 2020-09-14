@@ -56,7 +56,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2020-09-01"
   date_end = "2021-10-01"
-  description = "Seminar Facilitator"  
+  description = "Associate Tutor"  
 
 
 # Syntax for adding accomplishments
