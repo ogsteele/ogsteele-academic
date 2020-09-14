@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 51  # Order that this section will appear.
 
-title = "Teaching Experience"
+title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "Description ... "
+  description = "Description would go here"
 
 [[item]]
   organization = "University of Sussex"
@@ -57,6 +57,8 @@ date_format = "Jan 2006"
   date_start = ""
   date_end = ""
   description = ""  
+
+
 # Syntax for adding accomplishments
 # [[item]]
 #  organization = "Higher Education Academy"
