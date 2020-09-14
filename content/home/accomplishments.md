@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Higher Education Academy"
+  organization_url = "https://www.advance-he.ac.uk/"
+  title = "Associate Fellow of the Higher Education Academy"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-01"
+  date_end = ""
+  description = ""
   
 # Syntax for adding accomplishments
 # [[item]]
