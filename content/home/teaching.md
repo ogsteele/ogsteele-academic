@@ -25,8 +25,8 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2018-09-01"
-  date_end = ""
-  description = "Associate Tutor"
+  date_end = "2020-09-01"
+  description = "Seminar Facilitator"
 
 [[item]]
   organization = "University of Sussex"
@@ -35,7 +35,7 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2019-10-01"
-  date_end = ""
+  date_end = "2019-10-01"
   description = "Laboratory Demonstrator"
   
 [[item]]
@@ -45,7 +45,7 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2019-10-01"
-  date_end = ""
+  date_end = "2021-10-01"
   description = "Laboratory Demonstrator"
   
 [[item]]
@@ -55,7 +55,7 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-10-01"
   description = "Seminar Facilitator"  
 
 
