@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 51  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Teaching"
 subtitle = ""
 
 # Date format
