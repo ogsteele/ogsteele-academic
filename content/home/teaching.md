@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Principles of Neuroscience"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "Sep 2018"
+  date_end = "Present"
   description = "Description would go here"
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Research Methods for Neuroscience"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "Oct 2019"
+  date_end = "Present"
   description = ""
   
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "Advanced Techniques in Neuroscience"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "Oct 2019"
+  date_end = "Present"
   description = ""
   
 [[item]]
@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   title = "Discovering Statistics"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "Sep 2020"
+  date_end = "Present"
   description = ""  
 
 
