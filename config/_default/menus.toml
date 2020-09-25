@@ -19,7 +19,7 @@
   weight = 60
 
 [[main]]
-  name = "My Widget Page"  # Title of the link.
+  name = "Test Page"  # Title of the link.
   url = "landing/"  # Widget Page folder name.
   weight = 61  # Position of the link in the navigation bar.
   
