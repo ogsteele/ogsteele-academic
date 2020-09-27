@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Test Post #1"
-subtitle: "Subtitle of above"
-summary: "This is just a test post, i really wouldn't stress"
+title: "NeuroBlog Under Construction"
+subtitle: ""
+summary: "Something exciting this way comes ..."
 authors: []
 tags: ["Intro_to_ephys"]
 categories: []
