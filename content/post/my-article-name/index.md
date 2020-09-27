@@ -28,5 +28,4 @@ image:
 projects: []
 ---
 
-I'm assuming content for the blog post goes here? 
-- [X] Correct!
+Still under construction, check back later ...
