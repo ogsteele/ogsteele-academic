@@ -20,7 +20,6 @@ image:
   focal_point: "Top"
   preview_only: true
 
-
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -30,3 +29,5 @@ projects: []
 ---
 
 Still under construction, check back later ...
+
+<applause-button style="width: 58px; height: 58px;”/>
