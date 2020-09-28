@@ -32,6 +32,9 @@ subtitle = ""
   [[content.filter_button]]
     name = "Intro to Electrophysiology"
     tag = "Intro_to_ephys"
+  [[content.filter_button]]
+    name = "Intro to Statistics"
+    tag = "Intro_to_stats"
   #[[content.filter_button]]
     #name = "Other"
     #tag = "Other"
