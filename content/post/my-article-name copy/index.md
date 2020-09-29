@@ -29,5 +29,3 @@ projects: []
 ---
 
 Still under construction, check back later ...
-
-<applause-button style="width: 58px; height: 58px;”/>
