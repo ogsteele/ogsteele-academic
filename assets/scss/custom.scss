@@ -1,7 +1,7 @@
 @mixin animate-once($name) {
   animation-name: $name;
   animation-duration: 0.5s;
-  animation-iteration-count: 1;
+  animation-iteration-count: 5;
 }
 
 @mixin centered-square($size) {
@@ -51,7 +51,7 @@ applause-button {
   svg {
     @include centered-square(60%);
     @include position-fill();
-    opacity: 0.8;
+    opacity: 1;
     stroke: none;
     // annoyingly bootstrap has a higher precedence rule that sets overflow to hidden
     // hence the bang-important
