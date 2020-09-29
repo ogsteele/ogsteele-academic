@@ -1,7 +1,7 @@
 @mixin animate-once($name) {
   animation-name: $name;
   animation-duration: 0.5s;
-  animation-iteration-count: 5;
+  animation-iteration-count: 1;
 }
 
 @mixin centered-square($size) {
