@@ -35,9 +35,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Intro to Statistics"
     tag = "Intro_to_stats"
-  #[[content.filter_button]]
-    #name = "Other"
-    #tag = "Other"
 
 
 [design]
