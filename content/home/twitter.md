@@ -31,3 +31,8 @@ design:
 
 <a class="twitter-timeline" data-height="750" data-theme="dark" href="https://twitter.com/OGSteele?ref_src=twsrc%5Etfw">Tweets by OGSteele</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<center>
+<a href="https://twitter.com/OGSteele?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @OGSteele</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+

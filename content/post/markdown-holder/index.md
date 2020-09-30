@@ -4,7 +4,7 @@
 title: "NeuroBlog Under Construction"
 subtitle: ""
 summary: "Something *stylish* this way comes ..."
-authors: []
+authors: ["O.G. Steele"]
 tags: ["markdown"]
 categories: []
 date: 2020-09-27T15:33:27+01:00
