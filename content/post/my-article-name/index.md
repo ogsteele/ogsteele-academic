@@ -30,5 +30,5 @@ projects: []
 
 Still under construction, check back later ...
 
-<a class="twitter-timeline" href="https://twitter.com/OGSteele?ref_src=twsrc%5Etfw">Tweets by OGSteele</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="750" data-theme="dark" href="https://twitter.com/OGSteele?ref_src=twsrc%5Etfw">Tweets by OGSteele</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
