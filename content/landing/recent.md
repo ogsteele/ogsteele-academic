@@ -39,6 +39,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

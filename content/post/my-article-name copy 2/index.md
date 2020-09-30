@@ -3,9 +3,9 @@
 
 title: "NeuroBlog Under Construction"
 subtitle: ""
-summary: "Something *stimulating* this way comes ..."
+summary: "Something *welcoming* this way comes ..."
 authors: []
-tags: ["ephys","Intro_to_stats"]
+tags: ["welcome"]
 categories: []
 date: 2020-09-27T15:33:27+01:00
 lastmod: 2020-09-27T15:33:27+01:00

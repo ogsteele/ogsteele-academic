@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2 # Order that this section will appear.
 
-title = "NeuroBlog"
+title = "Blog"
 subtitle = ""
 
 [content]
@@ -27,14 +27,17 @@ subtitle = ""
   #  tag = "*"
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "Welcome"
+    tag = "welcome"
   [[content.filter_button]]
-    name = "Intro to Electrophysiology"
-    tag = "Intro_to_ephys"
+    name = "Electrophysiology"
+    tag = "ephys"
   [[content.filter_button]]
-    name = "Intro to Statistics"
-    tag = "Intro_to_stats"
+    name = "Statistics"
+    tag = "stats"
+  [[content.filter_button]]
+    name = "Markdown"
+    tag = "markdown"
 
 
 [design]
