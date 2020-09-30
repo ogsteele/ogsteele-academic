@@ -30,4 +30,5 @@ projects: []
 
 Still under construction, check back later ...
 
-<applause-button style="width: 58px; height: 58px;”/>
+<a class="twitter-timeline" href="https://twitter.com/OGSteele?ref_src=twsrc%5Etfw">Tweets by OGSteele</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
