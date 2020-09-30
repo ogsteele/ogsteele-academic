@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Still under construction, check back later ...
+Still under construction, check back later ... just want to see if this will go over the entire page or do i have another problem to solve. It's over the middle of the page; good enough for me.
